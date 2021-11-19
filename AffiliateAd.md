@@ -18,7 +18,7 @@ Welcome to <:muatexuniverse:911297959633776660> **Muatex Universe**
 ```
 
 # Non-Nitro Ad
-``md
+```md
 Welcome to **Muatex Universe** 
 > Muatex Universe is a server based around creative arts, technology and the content creator Muatex! (**<https://www.muatex.xyz>**)
 
